@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Anas (Satsujii)
+# 👋 Hi, I’m Anas (El-Malyari-Anas)
 
 Passionate Developer | Tech Enthusiast | Open Source Contributor | Lifelong Learner  
 Building impactful applications | Exploring new technologies
