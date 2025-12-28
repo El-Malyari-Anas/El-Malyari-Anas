@@ -5,6 +5,14 @@ Building impactful applications | Exploring new technologies
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="github-metrics.svg" alt="Anas's GitHub Metrics" width="100%">
+</div>
+
+---
+
 ## 🧰 Skills & Technologies
 
 Here are some of the languages, frameworks, and tools I frequently work with:
@@ -34,7 +42,7 @@ Here are some of my repositories that show my work and range:
 | **todo-app** | A JavaScript to-do list app (forked) |
 | **Freelancer-project** | A Java project (maybe client work or learning project) |
 
-(Check out my Repositories tab for all projects and details.) :contentReference[oaicite:0]{index=0}
+(Check out my Repositories tab for all projects and details.)
 
 ---
 
@@ -54,4 +62,4 @@ Here are some of my repositories that show my work and range:
 
 ---
 
-If you find a project here interesting or want to collaborate — feel free to open an issue, send a pull request, or reach out. Let’s build something great together! 🚀  
+If you find a project here interesting or want to collaborate — feel free to open an issue, send a pull request, or reach out. Let’s build something great together! 🚀
